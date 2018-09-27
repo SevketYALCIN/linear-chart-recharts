@@ -1,4 +1,4 @@
-# linear-chat-recharts
+# linear-chart-recharts
 
 Simple implementation of a linear chart with 2 lines and dynamic switching using [Recharts](http://recharts.org/en-US/)
 
